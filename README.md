@@ -1,5 +1,3 @@
-
-<p align="center"><img  src ="https://media4.giphy.com/media/lcs5BL0NIM4WMv61a9/200.webp?cid=ecf05e47maq8fj21788i3zh5t3pz1v1qq5u2azgizzjemexa&ep=v1_gifs_search&rid=200.webp&ct=g"></p>
 <h1 align="center">Hey there, it's Sapana Pandey</h1>
 <h3 align="center">Computer Engineering Student 👩‍💻 and a Coffee Enthusiast ☕</h3>
 
