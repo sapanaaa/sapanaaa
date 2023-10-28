@@ -7,7 +7,7 @@
 
 - 🕵️‍♀️ I’m currently learning **JS**
 
-- 🕵️‍♀️ Contact me **Sapanapandey447@gmail.com**
+- 🕵️‍♀️ Contact me @ **Sapanapandey447@gmail.com**
 
 - 🕵️‍♀️ TMI **I love movies and music**
 
