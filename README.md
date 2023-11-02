@@ -9,7 +9,7 @@
 
 - 🕵️‍♀️ Contact me : **Sapanapandey447@gmail.com**
 
-- 🕵️‍♀️ TMI **I love movies and music**
+- 🕵️‍♀️ TMI: **I love movies and music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
