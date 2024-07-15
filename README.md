@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, It's Sapana Pandey</h1>
+<h1 align="center">Hey there, It's Sapana Pandey 👋</h1>
 <h3 align="center">Computer Engineering Student 👩‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapanaaa&label=Profile%20views&color=0e75b6&style=flat" alt="sapanaaa" /> </p>
