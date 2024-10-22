@@ -1,4 +1,4 @@
-<h2 align="center">Heyyy!! I am a Computer Engineering Student  </h2>
+<h2 align="center">Heyyy!! I am Sapana Pandey <br> I am a Computer Engineering Student</h2>
 
 ###
 
@@ -42,11 +42,19 @@
   <a href="https://www.instagram.com/sapanapandeyy/?theme=dark" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+  <a href="sapanapandey447@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/sapana.pandey.7587" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31eondfbo7dd35ergpqje5tbcb54">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31eondfbo7dd35ergpqje5tbcb54&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
