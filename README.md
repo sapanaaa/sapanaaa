@@ -4,7 +4,7 @@
 -  I’m currently learning **Machine Learning**
 
 - ⚡ Fun fact **I love cats and music**
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fcatsherdyou%2Fposts%2Ftech-support-cat-is-updating-your-computer%2F2196092837170987%2F&psig=AOvVaw1jg2GNa_m__6gHp3qlxjT4&ust=1729672409469000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLi3ndLJoYkDFQAAAAAdAAAAABAh"  />
+<img align="right" height="150" src="https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2024/09/04/a7f39133-e565-43e6-8888-baf8cee48acf_3c0944c6.jpg"  />
 
 ###
 🤍🤍🤍
