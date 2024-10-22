@@ -50,6 +50,16 @@
   </a>
 </div>
 
+
+<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetyarn.io%2Fyarn-clip%2F4bb9aa1f-1890-4bfa-8806-9f3de47fd9d2%2Fgif&psig=AOvVaw3i1xPFA06zBUXEv3ddPpeW&ust=1729670133875000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCPig6JXBoYkDFQAAAAAdAAAAABC5AQ"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sapanaaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sapanaaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 ###
 
 <div align="center">
