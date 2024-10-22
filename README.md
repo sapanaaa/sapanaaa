@@ -1,4 +1,4 @@
-<h2 align="center">Heyyy!!</h2>
+<h2 align="center">Heyyy!! I am a Computer Engineering Student  </h2>
 
 ###
 
