@@ -56,9 +56,9 @@ My Socials:
   </a>
 </div>
 
-
+<br>
 <img align="right" height="150" src="https://media.tenor.com/p-LIY-ce1j4AAAAM/stewie-griffin-family-guy.gif"  />
-
+<br>
 ###
 
 <div align="center">
