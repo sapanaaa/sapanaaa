@@ -73,6 +73,7 @@ My Socials:
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31eondfbo7dd35ergpqje5tbcb54&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sapanaaa"/></a>
-
+</div>
 ###
