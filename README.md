@@ -1,4 +1,4 @@
-<h2 align="center">Heyyy!! I am <em>Sapana Pandey<em> <br><br> I am a Computer Engineering Student</h2>
+<h2 align="center">Heyyy!! I am <em>Sapana Pandey</em> <br><br> I am a Computer Engineering Student</h2>
 
 ###
 -  I’m currently learning **Machine Learning**
