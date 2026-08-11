@@ -1,9 +1,9 @@
 <h2 align="center">Heyyy!! I am <em>Sapana Pandey</em> <br><br> I am a Computer Engineering Student</h2>
 
 ###
--  I’m currently learning **Machine Learning**
 
-- ⚡ Fun fact **I love cats and music**
+
+ ** cats and music**
 <img align="right" height="150" src="https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2024/09/04/a7f39133-e565-43e6-8888-baf8cee48acf_3c0944c6.jpg"  />
 
 ###
